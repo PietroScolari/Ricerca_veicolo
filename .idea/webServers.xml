@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fceef187-eda8-4bb9-bf8c-0e7d36ae79de" name="server" url="http://localhost/template_pdo_crud-master">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\template_pdo_crud-master" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
